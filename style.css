@@ -21,6 +21,11 @@ h1{
     font-size: 20px;
 }
 
-button>#search{
-    
+button>#greeting{
+    padding: 5 5 10 10;
+}
+
+footer{
+    background-color: #000000;
+    color: white;
 }
